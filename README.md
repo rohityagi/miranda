@@ -1,2 +1,2 @@
 # The Paper Portfolio
-a news portfolio website using html css and js using a bit of gsap animations
+This project involved the creation of a dynamic news portfolio website using HTML, CSS, and JavaScript. The website features a clean and intuitive user interface, allowing visitors to navigate through various news categories seamlessly. Additionally, the inclusion of GSAP animations adds a touch of interactivity and visual appeal, enhancing the overall user experience. The site effectively showcases a curated selection of news articles, providing a user-friendly platform for staying informed.
